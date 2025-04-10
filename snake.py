@@ -29,3 +29,18 @@ class Snake(object):
 
     def draw(self, surface):
         pass
+
+def draw_grid(surface, rows, width):
+    pass
+
+def redraw_window(surface, snake, snack, score):
+    pass
+
+def random_snack(rows, item):
+    pass
+
+def message_box(subject, content):
+    pass
+
+def main():
+    pass
