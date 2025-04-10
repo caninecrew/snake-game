@@ -17,3 +17,15 @@ class Cube(object):
     def draw(self, surface, eyes=False):
         pass
 
+class Snake(object):
+    def __init__(self, color, pos):
+        pass
+
+    def move(self):
+        pass
+
+    def reset(self):
+        pass
+
+    def draw(self, surface):
+        pass
